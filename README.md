@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** with a passion fo
 - 🔭 I’m currently working on projects using **Typescript**, **React**, **Next.js**, **Node.js**, and more!
 - 🌱 Always learning new technologies, currently diving into **Go** and **LangChain**.
 - 💬 Ask me about **Full-Stack Development**, **UI Libraries**, and **AI-powered APIs**.
-- 📫 How to reach me: it.agniev.a@gmail.com | [LinkedIn](https://www.linkedin.com/in/oleksandr-agniev-821691192) | [Telegram](https://t.me/username)
+- 📫 How to reach me: it.agniev.a@gmail.com | [LinkedIn](https://www.linkedin.com/in/oleksandr-agniev-821691192)
 
 ## 🔧 Tech Stack
 
