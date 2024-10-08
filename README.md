@@ -51,9 +51,5 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** with a passion fo
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat-square)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
 
-## 💡 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OleksandrAgniev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrAgniev&layout=compact&theme=radical)
-
 ## ⚡ Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/oleksandr-agniev-821691192)
