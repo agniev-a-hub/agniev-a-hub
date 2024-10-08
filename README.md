@@ -1,14 +1,14 @@
 # Hi there, I'm Oleksandr Agniev 👋
 
-Welcome to my GitHub profile! I’m a **Full-Stack Developer** with a passion for building intuitive, efficient, and scalable software solutions. I love solving challenging problems and learning new technologies. Here, you’ll find some of the projects I’ve worked on, ranging from **front-end** development to **back-end** architecture, databases, and more.
+Welcome to my GitHub profile! I’m a **Full-Stack Developer** passionate about AI-driven applications, scalable back-end systems, and responsive front-end designs. Here, you’ll find projects where I've optimized performance, developed efficient APIs, and contributed to healthcare, logistics, and analytical platforms.
 
 ![Visitors](https://komarev.com/ghpvc/?username=OleksandrAgniev&color=brightgreen)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on projects using **Typescript**, **React**, **Next.js**, **Node.js**, and more!
-- 🌱 Always learning new technologies, currently diving into **Go** and **LangChain**.
+- 🔭 Currently working with **Typescript**, **React**, **Next.js (14+),** **Node.js**, and more.
+- 🌱 Exploring **Go** and **LangChain** to push the boundaries of AI integration.
 - 💬 Ask me about **Full-Stack Development**, **UI Libraries**, and **AI-powered APIs**.
-- 📫 How to reach me: it.agniev.a@gmail.com | [LinkedIn](https://www.linkedin.com/in/oleksandr-agniev-821691192)
+- 📫 How to reach me: [it.agniev.a@gmail.com](mailto:it.agniev.a@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oleksandr-agniev-821691192)
 
 ## 🔧 Tech Stack
 
